@@ -62,8 +62,10 @@ nav ul li a, nav ul li span, header .action {
   .flash {
     margin: 1em 0;
     padding: 1em;
-    background: #cae6f6;
+    color: #fff;
+    background: red;
     border: 1px solid #377ba8;
+    font-weight: bold;
   }
   
   .post > header {
